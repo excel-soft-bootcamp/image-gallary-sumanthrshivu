@@ -1,0 +1,11 @@
+F:\c# training\ImageShare\ImageShare\obj\Debug\netcoreapp2.1\ImageShare.csprojAssemblyReference.cache
+F:\c# training\ImageShare\ImageShare\obj\Debug\netcoreapp2.1\ImageShare.csproj.CoreCompileInputs.cache
+F:\c# training\ImageShare\ImageShare\obj\Debug\netcoreapp2.1\ImageShare.AssemblyInfoInputs.cache
+F:\c# training\ImageShare\ImageShare\obj\Debug\netcoreapp2.1\ImageShare.AssemblyInfo.cs
+F:\c# training\ImageShare\ImageShare\bin\Debug\netcoreapp2.1\ImageShare.deps.json
+F:\c# training\ImageShare\ImageShare\bin\Debug\netcoreapp2.1\ImageShare.runtimeconfig.json
+F:\c# training\ImageShare\ImageShare\bin\Debug\netcoreapp2.1\ImageShare.runtimeconfig.dev.json
+F:\c# training\ImageShare\ImageShare\bin\Debug\netcoreapp2.1\ImageShare.dll
+F:\c# training\ImageShare\ImageShare\bin\Debug\netcoreapp2.1\ImageShare.pdb
+F:\c# training\ImageShare\ImageShare\obj\Debug\netcoreapp2.1\ImageShare.dll
+F:\c# training\ImageShare\ImageShare\obj\Debug\netcoreapp2.1\ImageShare.pdb
